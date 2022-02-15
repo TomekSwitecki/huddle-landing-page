@@ -15,7 +15,7 @@ I created it to improve my frontend skills 😃
 
 ## Live Demo
 
-[Live Demo Link](https://tomekswitecki.github.io/huddle-landing-page-/)
+[Live Demo Link](https://tomekswitecki.github.io/huddle-landing-page/)
 
 ## Authors
 
