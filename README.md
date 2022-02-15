@@ -1,6 +1,6 @@
-# Single price grid component
+# Huddle landing page with a single introductory section 
 
-> This is a solution to the [Single price grid component challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
+> This is a solution to the [Huddle landing page with a single introductory section ](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub/huddle-landing-page-with-a-single-introductory-section-Xw9D3NfL4).
 
 ![screenshot](./design/screenshot.png)
 
